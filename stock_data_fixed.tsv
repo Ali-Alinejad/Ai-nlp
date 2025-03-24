@@ -1,0 +1,94 @@
+Symbol	Company	Industry	MarketCap
+AAPL	Apple Inc.	Technology	2800
+MSFT	Microsoft 	Technology	2500
+TSLA	Tesla Inc.	Automotive	900
+AMZN	Amazon.com Inc	E-Commerce	1700
+GOOGL	Alphabet Inc.	Technology	1800
+META	Meta Platforms	Social Media	1000
+NVDA	NVIDIA Corp	Semiconductors	1400
+JPM	JPMorgan Chase	Banking	500
+WMT	Walmart Inc.	Retail	400
+KO	Coca-Cola Co.	Beverages	250
+IBM	IBM Corp.	Technology	600
+INTC	Intel Corp.	Semiconductors	800
+CSCO	Cisco Systems	Technology	550
+ORCL	Oracle Corp.	Technology	650
+SAP	SAP SE	Technology	450
+SONY	Sony Group	Consumer Electronics	500
+NFLX	Netflix Inc.	Entertainment	700
+DIS	Walt Disney	Entertainment	900
+PEP	PepsiCo Inc.	Beverages	300
+ADBE	Adobe Inc.	Technology	1000
+PYPL	PayPal Holdings	Fintech	450
+UBER	Uber Technologies	Transportation	350
+LYFT	Lyft Inc.	Transportation	100
+TWTR	Twitter Inc.	Social Media	250
+SNAP	Snap Inc.	Social Media	150
+BABA	Alibaba Group	E-Commerce	1200
+T	AT&T Inc.	Telecommunications	250
+VZ	Verizon Communications	Telecommunications	230
+TM	Toyota Motor Corp.	Automotive	1800
+GM	General Motors	Automotive	600
+F	Ford Motor Co.	Automotive	500
+NKE	Nike Inc.	Apparel	300
+ADDYY	Adidas AG	Apparel	250
+PFE	Pfizer Inc.	Pharmaceuticals	400
+JNJ	Johnson & Johnson	Pharmaceuticals	600
+MRNA	Moderna Inc.	Pharmaceuticals	450
+NVAX	Novavax Inc.	Pharmaceuticals	100
+XOM	ExxonMobil Corp.	Energy	800
+CVX	Chevron Corp.	Energy	700
+BP	BP plc	Energy	300
+SHEL	Shell plc	Energy	500
+TOT	TotalEnergies SE	Energy	400
+WBA	Walgreens Boots Alliance	Retail	200
+COST	Costco Wholesale	Retail	450
+TGT	Target Corp.	Retail	350
+MCD	McDonald's Corp.	Fast Food	600
+SBUX	Starbucks Corp.	Fast Food	300
+YUM	Yum! Brands	Fast Food	200
+CMG	Chipotle Mexican Grill	Fast Food	150
+BA	Boeing Co.	Aerospace	550
+AIR	Airbus SE	Aerospace	500
+LMT	Lockheed Martin	Aerospace	700
+GD	General Dynamics	Aerospace	400
+RTX	Raytheon Technologies	Aerospace	450
+CAT	Caterpillar Inc.	Machinery	300
+DE	Deere & Co.	Machinery	350
+MMM	3M Co.	Manufacturing	250
+GE	General Electric	Manufacturing	400
+HON	Honeywell International	Manufacturing	350
+IBM	International Business Machines	Technology	600
+DHR	Danaher Corp.	Healthcare	500
+ABT	Abbott Laboratories	Healthcare	400
+MDT	Medtronic plc	Healthcare	450
+SYK	Stryker Corp.	Healthcare	350
+ZBH	Zimmer Biomet	Healthcare	200
+ISRG	Intuitive Surgical	Healthcare	600
+TMO	Thermo Fisher Scientific	Healthcare	700
+VRTX	Vertex Pharmaceuticals	Pharmaceuticals	550
+REGN	Regeneron Pharmaceuticals	Pharmaceuticals	600
+BIIB	Biogen Inc.	Pharmaceuticals	500
+GILD	Gilead Sciences	Pharmaceuticals	450
+AMGN	Amgen Inc.	Pharmaceuticals	650
+CELG	Celgene Corp.	Pharmaceuticals	400
+ILMN	Illumina Inc.	Biotech	450
+CRSP	CRISPR Therapeutics	Biotech	300
+EDIT	Editas Medicine	Biotech	250
+NTLA	Intellia Therapeutics	Biotech	200
+BLUE	bluebird bio	Biotech	150
+SQ	Block Inc.	Fintech	300
+SPOT	Spotify Technology	Entertainment	250
+ROKU	Roku Inc.	Entertainment	200
+EA	Electronic Arts	Gaming	300
+ATVI	Activision Blizzard	Gaming	500
+TTWO	Take-Two Interactive	Gaming	450
+UBI	Ubisoft Entertainment	Gaming	200
+SNE	Sony Interactive Entertainment	Gaming	700
+AAPL2	Apple Inc. 2	Technology	2800
+MSFT2	Microsoft Corp. 2	Technology	2500
+TSLA2	Tesla Inc. 2	Automotive	900
+AMZN2	Amazon.com Inc. 2	E-Commerce	1700
+GOOGL2	Alphabet Inc. 2	Technology	1800
+META2	Meta Platforms 2	Social Media	1000
+NVDA2	NVIDIA Corp. 2	Semiconductors	1400
