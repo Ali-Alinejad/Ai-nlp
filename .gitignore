@@ -8,3 +8,5 @@ __pycache__/
 *.pyw
 *.pyz
 
+myenv/
+
